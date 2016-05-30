@@ -1,13 +1,11 @@
 <?php
 
 use Mvg\Factories\Departures as DeparturesFactory;
-use Mvg\LedMatrixOutput\Departures as LedMatrixOutPutDepartues;
 use TrambahnComputer\Departures as TrambahnComputerDepartures;
 use Mvg\Parser\Html\Departures;
 use Mvg\RequestHandler\Html\HttpGetDepartures;
 
 require_once dirname(__FILE__) . DIRECTORY_SEPARATOR . 'vendor/autoload.php';
-error_reporting(E_ALL);
 
 
 $colors = require_once dirname(__FILE__) . DIRECTORY_SEPARATOR . 'config' . DIRECTORY_SEPARATOR . 'colors.php';
