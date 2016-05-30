@@ -80,12 +80,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/schmiddim/mvg-live-php.git",
-                "reference": "f978d6b45755eee4daa09d3b1cacde389a259cad"
+                "reference": "93ae9aa2b6695c37950f12e856460592de7213b7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/schmiddim/mvg-live-php/zipball/f978d6b45755eee4daa09d3b1cacde389a259cad",
-                "reference": "f978d6b45755eee4daa09d3b1cacde389a259cad",
+                "url": "https://api.github.com/repos/schmiddim/mvg-live-php/zipball/93ae9aa2b6695c37950f12e856460592de7213b7",
+                "reference": "93ae9aa2b6695c37950f12e856460592de7213b7",
                 "shasum": ""
             },
             "require": {
@@ -117,7 +117,7 @@
             ],
             "description": "mvg-package is an API Wrapper for fetching infos from the MVV public transportation network in munich.",
             "homepage": "http://www.radikalblogger.de",
-            "time": "2016-01-20 19:44:38"
+            "time": "2016-01-23 23:11:27"
         },
         {
             "name": "secondtruth/phar-compiler",

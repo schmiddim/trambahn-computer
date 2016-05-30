@@ -1,0 +1,11 @@
+<?php
+return array(
+	'Fürstenried West',
+	'Sendlinger Tor',
+	'Einsteinstraße',
+	'Messestadt Ost',
+	'Karlsplatz Nord',
+	'Romanplatz',
+	'Scheidplatz',
+	'Obersendling'
+);

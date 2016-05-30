@@ -1,0 +1,26 @@
+<?php
+
+
+return array(
+
+	'U3' => array(
+		'red' => 255,
+		'green' => 127,
+		'blue' => 0),
+	'28' => array(
+		'red' => 100,
+		'green' => 0,
+		'blue' => 0),
+	'U2' => array(
+		'red' => 100,
+		'green' => 0,
+		'blue' => 20),
+	'U8' => array(
+		'red' => 100,
+		'green' => 0,
+		'blue' => 20),
+	'default' => array(
+		'red' => 0,
+		'green' => 0,
+		'blue' => 255)
+);
