@@ -1,0 +1,25 @@
+<?php
+return array(
+
+    array(
+        'station' => 'Bonner Platz',
+        'filterForStations' => array(
+            'Fürstenried West',
+            'Sendlinger Tor',
+        )
+    ),
+    array(
+        'station' => 'Karl-Theodor-Straße',
+        'filterForStations' => array(
+
+            'Karlsplatz Nord',
+            'Einsteinstraße',
+        )
+    ),
+    array(
+        'station' => 'Karl-Theodor-Straße',
+        'filterForStations' => array(
+            'Romanplatz',
+        )
+    ),
+);
