@@ -1,0 +1,4 @@
+image: php56
+
+before_script:
+    - php /composer.phar install --no-progress
